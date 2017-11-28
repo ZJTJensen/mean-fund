@@ -1,0 +1,14 @@
+1:
+will print undefined
+2:
+will print magnet
+3:
+will print super cool
+4:
+prints a error
+5:
+mean is not a function so it prints a error
+6: 
+prints rock r & b and disco as it is a function
+7:
+starts by printing san ose than seatle burbank and san jose again
